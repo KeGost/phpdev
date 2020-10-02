@@ -1,0 +1,48 @@
+body { 
+	padding-top: 50px;
+	background-color: #dee0e3;
+	font-family: Bradley Hand, cursive;
+}
+
+.container {
+	text-align: center;
+	width: 500px;
+	margin: auto;
+	padding: 20px;
+	background: white;
+}
+
+.button {
+	color: white;
+	font-size: 20px;
+	margin: 5px;
+	text-align: center;
+	width: 150px;
+	height: 50px;
+	border: 1px solid #258bf7;
+	border-radius: 10px;
+	background: #258bf7;
+}
+.button.action {
+	width: auto;
+}
+.field {
+	font-size: 15px;
+	margin: 0;
+	width: 490px;
+	height: 35px;
+	border: 1px solid #000000;
+	border-radius: 5px;
+}
+
+.fields {
+	margin: 15px 0px;
+}
+label {
+	text-align: left;
+}
+
+p {
+	padding: 0;
+	margin: 0;
+}
